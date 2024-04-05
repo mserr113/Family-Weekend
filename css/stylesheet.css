@@ -25,6 +25,10 @@
         line-height: 30px;
     }
 
+    .main-agenda-headline {
+        text-align: center;
+    }
+
     .daily-agenda-container {
         padding: 20px;
         text-align: center;
