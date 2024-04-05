@@ -36,4 +36,11 @@
     
     .daily-agenda-activities {
         padding: 10px;
+        white-space: normal; 
+    }
+
+    @media only screen and (max-width: 420px) {
+        .daily-agenda-activities {
+            font-size: 14px;
+        }
     }
